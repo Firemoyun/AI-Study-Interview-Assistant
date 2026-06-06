@@ -48,16 +48,15 @@ http://localhost:3000
 
 ### Home Page
 
-(Add screenshot here)
+![Home Page](screenshots/home.png)
 
 ### Study Assistant
 
-(Add screenshot here)
+![Study Assistant](screenshots/study.png)
 
 ### Interview Generator
 
-(Add screenshot here)
-
+![Interview Generator](screenshots/interview.png)
 ## Author
 
 moyun
