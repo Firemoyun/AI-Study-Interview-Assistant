@@ -59,4 +59,4 @@ http://localhost:3000
 ![Interview Generator](screenshots/interview.png)
 ## Author
 
-moyun
+려묵호
