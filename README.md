@@ -48,15 +48,15 @@ http://localhost:3000
 
 ### Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/home_v2.png)
 
 ### Study Assistant
 
-![Study Assistant](screenshots/study.png)
+![Study Assistant](screenshots/study_v2.png)
 
 ### Interview Generator
 
-![Interview Generator](screenshots/interview.png)
+![Interview Generator](screenshots/interview_v2.png)
 ## Author
 
 려묵호
