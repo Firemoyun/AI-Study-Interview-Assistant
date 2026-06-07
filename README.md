@@ -21,8 +21,8 @@ This project was developed with the assistance of generative AI tools and built 
 * Practice interview preparation
 
 ## AI Tools Used
-
-* ChatGPT
+* Google Gemini API (primary AI model)
+* ChatGPT (development assistance)
 
 ## Technology Stack
 
@@ -30,8 +30,8 @@ This project was developed with the assistance of generative AI tools and built 
 * React
 * TypeScript
 * Tailwind CSS
-* Git
-* GitHub
+* Google Gemini API (AI Engine)
+* Git & GitHub (Version Control)
 
 ## How to Run
 
