@@ -36,6 +36,7 @@ export async function POST(req: Request) {
 
     const data = await res.json();
 
+
     const text =
       data?.candidates?.[0]?.content?.parts?.[0]?.text;
 
